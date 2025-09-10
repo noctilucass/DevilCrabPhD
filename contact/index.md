@@ -14,20 +14,20 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="l.bravo2@newcastle.ac.uk"
+  link="l.bravo2@newcastle.ac.uk"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="‪+44 7774 532356‬"
+  link="‪+44 7774 532356‬"
 %}
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://maps.app.goo.gl/SdR2qivxq4Wy7zBK9?g_st=ipc"
 %}
 
 {% include section.html %}
