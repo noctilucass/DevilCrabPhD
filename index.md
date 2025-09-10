@@ -3,7 +3,7 @@
 
 # The Devil Crab PhD
 
-An engaging 1-3 sentence description of your lab.
+Welcome to the journey where experiments, field data and the so known Devil Crab or Velvet Swimming Crab (Necora Puber) are mixed.
 
 {% include section.html %}
 
