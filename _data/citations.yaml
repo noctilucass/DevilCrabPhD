@@ -11,24 +11,12 @@
   - Sergio A. Navarrete
   - Simone Baldanzi
   publisher: Austral Ecology
-  date: '2020-12-04'
+  date: '2025-05-01'
   link: https://doi.org/g9275j
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.seares.2025.102590
