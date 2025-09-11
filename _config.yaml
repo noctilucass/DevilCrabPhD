@@ -71,3 +71,4 @@ exclude:
   - CITATION.cff
   - team
   - blog
+  - unused
