@@ -1,7 +1,7 @@
 ---
 ---
 
-# The role of oxygen predictability in the phenotypic plasticity of Necora puber
+# Why? The rationale
 
 Coastal marine ectotherms live in a world of shifting oxygen, temperature, and pH—often predictable, sometimes stochastic. Yet most studies overlook how organisms sense and respond to these fluctuations. My research explores how oxygen predictability shapes the plasticity and resilience of a keystone species: *Necora puber*.
 
