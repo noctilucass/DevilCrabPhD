@@ -7,9 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Website, Rstudio and Sensors.
 
-{% include tags.html tags="publication, software, website" %}
+{% include tags.html tags="software, website" %}
 
 {% include search-info.html %}
 
