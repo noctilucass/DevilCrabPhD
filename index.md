@@ -11,7 +11,7 @@ Welcome to the journey where experiments, field data and the so known Devil Crab
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Natural and anthropogenic-induced changes in sea surface temperature (SST) affect all marine organisms, including the critical larval stages of coastal invertebrate species. Changes in sea surface temperature affect larval stages that must respond to these changes behaviourally, physiologically and, in some cases, alter morphological traits. Here, we evaluated the effects of rearing temperature on starvation-survival, swimming performance and morphology of zoea 1 larvae of the kelp crab (Taliepus dentatus).
 
 {%
   include button.html
@@ -26,7 +26,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/fig 10.1111aec.70066.jpeg"
   link="research"
   title="Research"
   text=text
@@ -34,12 +34,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The role of oxygen predictability in the phenotypic plasticity of Necora puber (supported by Beca Chile 2024)
 
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="Browse projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -49,9 +49,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/doctorado-becas-chile-2024_web_Op-2048x1138.jpg"
   link="projects"
-  title="Our Projects"
+  title="Projects"
   flip=true
   style="bare"
   text=text
