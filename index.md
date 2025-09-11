@@ -3,7 +3,7 @@
 
 # The Devil Crab PhD
 
-Coastal marine ectotherms live in a world of shifting oxygen, temperature, and pH—often predictable, sometimes stochastic. Yet most studies overlook how organisms sense and respond to these fluctuations. My research explores how oxygen predictability shapes the plasticity and resilience of a keystone species: Necora puber.
+Coastal marine ectotherms live in a world of shifting oxygen, temperature, and pH—often predictable, sometimes stochastic. Yet most studies overlook how organisms sense and respond to these fluctuations. My research explores how oxygen predictability shapes the plasticity and resilience of a keystone species: *Necora puber*.
 
 {% include section.html %}
 
@@ -34,7 +34,7 @@ Natural and anthropogenic-induced changes in sea surface temperature (SST) affec
 
 {% capture text %}
 
-The role of oxygen predictability in the phenotypic plasticity of Necora puber (supported by Beca Chile 2024)
+The role of oxygen predictability in the phenotypic plasticity of *Necora puber* (supported by Beca Chile 2024)
 
 {%
   include button.html
