@@ -36,8 +36,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/dove marine laboratory.webp"
+  caption="Dove Marine Laboratory, Newcastle upon Tyne, United Kingdom"
 %}
 
 {% endcapture %}
@@ -46,8 +46,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/facultad de ciencias del mar y recursos naturales.webp"
+  caption="Faculty of Marine Sciences and Natural Resources, Valparaiso, Chile "
 %}
 
 {% endcapture %}
