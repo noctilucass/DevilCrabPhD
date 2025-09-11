@@ -67,6 +67,6 @@ Col2
 {% capture col3 %}
 Col3
 {% endcapture %}
+{% endcomment %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
-{% endcomment %}
