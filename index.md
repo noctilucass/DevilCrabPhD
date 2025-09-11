@@ -57,6 +57,10 @@ The role of oxygen predictability in the phenotypic plasticity of Necora puber (
   text=text
 %}
 
+
+{% comment %}
+Eliminar comment y endcomment para que este bloque vuelva a hacer efecto
+
 {% capture text %}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -79,3 +83,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   title="Our Team"
   text=text
 %}
+{% endcomment %}
