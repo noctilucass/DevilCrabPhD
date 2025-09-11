@@ -49,6 +49,7 @@ Currently at Dove Marine Laboratory, Newcastle upon Tyne, UK; previously at Facu
 %}
 
 {% endcapture %}
+
 {% comment %}
 Eliminar comment y endcomment para que este bloque vuelva a hacer efecto
 {% include cols.html col1=col1 col2=col2 %}
