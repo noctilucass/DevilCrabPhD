@@ -11,7 +11,7 @@ Coastal marine ectotherms live in a world of shifting oxygen, temperature, and p
 
 {% capture text %}
 
-Natural and anthropogenic-induced changes in sea surface temperature (SST) affect all marine organisms, including the critical larval stages of coastal invertebrate species. Changes in sea surface temperature affect larval stages that must respond to these changes behaviourally, physiologically and, in some cases, alter morphological traits. Here, we evaluated the effects of rearing temperature on starvation-survival, swimming performance and morphology of zoea 1 larvae of the kelp crab (Taliepus dentatus).
+Natural and anthropogenic-induced changes in sea surface temperature (SST) affect all marine organisms, including the critical larval stages of coastal invertebrate species. Changes in sea surface temperature affect larval stages that must respond to these changes behaviourally, physiologically and, in some cases, alter morphological traits. Here, we evaluated the effects of rearing temperature on starvation-survival, swimming performance and morphology of zoea 1 larvae of the kelp crab (*Taliepus dentatus*).
 
 {%
   include button.html
