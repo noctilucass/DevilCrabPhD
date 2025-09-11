@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Currently at Dove Marine Laboratory, Newcastle upon Tyne, UK; previously at Faculty of Marine Sciences and Natural Resources, Valparaíso, Chile.
 
 {%
   include button.html
@@ -46,8 +44,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/facultad de ciencias del mar y recursos naturales.webp"
-  caption="Faculty of Marine Sciences and Natural Resources, Valparaiso, Chile "
+  image="images/facultad de ciencias del mar y recursos naturales.jpg"
+  caption="Faculty of Marine Sciences and Natural Resources, Valparaíso, Chile "
 %}
 
 {% endcapture %}
@@ -57,21 +55,15 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% include section.html dark=true %}
 
 {% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+
 {% endcapture %}
 
 {% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+
 {% endcapture %}
 
 {% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
