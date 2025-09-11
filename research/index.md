@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+"For just as the Milky Way is the universe in the form of a flower, we are the universe in the form of a human. And every time we are drawn to look up in the night sky and reflect on the awesome beauty of the universe, we are actually the universe reflecting on itself. And this changes everything." — Brian Thomas Swimme & Mary Evelyn Tucker, Journey of the Universe
 
 {% include section.html %}
 
