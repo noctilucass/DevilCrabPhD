@@ -14,7 +14,9 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Highlighted
 
-{% include citation.html lookup="The Effects of Temperature on the Swimming Performance, Starvation-Survival and Morphometrics of Zoea 1 Larvae of the Kelp Crab (Taliepus dentatus) From Central Chile" style="rich" %}
+{% include citation.html lookup="The Effects of Temperature on the Swimming Performance, Starvation\u2010\
+    Survival and Morphometrics of Zoea 1 Larvae of the Kelp Crab (<i>Taliepus dentatus</i>)\
+    \ From Central Chile" style="rich" %}
 
 {% include section.html %}
 
