@@ -1,7 +1,7 @@
 - id: doi:10.1111/aec.70066
   type: paper
-  image: noctilucass/DevilCrabPhD/images/fig 10.1111aec.70066.jpeg
+  image: "images/fig 10.1111aec.70066.jpeg"
 
 
 - id: doi:10.1016/j.seares.2025.102590
-  image: noctilucass/DevilCrabPhD/images/fig10.1016j.seares.2025.102590.jpg
+  image: "images/fig10.1016j.seares.2025.102590.jpg"

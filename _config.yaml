@@ -10,8 +10,8 @@ proofer: false
 links:
   email: l.bravo2@newcastle.ac.uk
   orcid: 0009-0002-4071-0202
-  google-scholar: https://scholar.google.com/citations?user=UwLnZ1wAAAAJ&hl=en
-  github: https://github.com/noctilucass
+  google-scholar: UwLnZ1wAAAAJ&hl=en
+  github: noctilucass
 
 ### jekyll settings
 
