@@ -3,7 +3,7 @@
 
 # The Devil Crab PhD
 
-Welcome to the journey where experiments, field data and the so known Devil Crab or Velvet Swimming Crab (Necora Puber) are mixed.
+Coastal marine ectotherms live in a world of shifting oxygen, temperature, and pH—often predictable, sometimes stochastic. Yet most studies overlook how organisms sense and respond to these fluctuations. My research explores how oxygen predictability shapes the plasticity and resilience of a keystone species: Necora puber.
 
 {% include section.html %}
 
