@@ -69,3 +69,5 @@ exclude:
   - README.md
   - LICENSE.md
   - CITATION.cff
+  - team
+  - blog
