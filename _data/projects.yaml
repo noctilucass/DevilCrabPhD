@@ -1,12 +1,21 @@
 - title: useData
   subtitle: Simplifying miniDOT Logger Data Extraction Workflows
-  image: images/photo.jpg
+  image: images/rstudio_logo.png
   link: https://github.com/noctilucass/useData
   description: useData is a R package designed to import and plot datasets from miniDOT loggers. Directly import one or plot multiple datasets from the logger without the need of removing the first lines or formatting. 
   repo: noctilucass/useData
   group: featured
   tags:
     - software
+
+- title: Beca Chile doctorado en el extranjero
+  subtitle: Chilean scholarship 
+  image: images/doctorado-becas-chile-2024_web_Op-2048x1138.jpg
+  link: https://anid.cl/concursos/doctorado-becas-chile-2024/
+  description: This scholarship aims to fund doctoral studies in all areas of knowledge and in any country, except Chile. Its goal is to ensure that, upon returning to the country, graduates apply the knowledge they have acquired and contribute to scientific, academic, economic, social, and cultural development.
+  group: featured
+  tags:
+    - resource
 
 #- title: Cool Web App
 #  subtitle: a subtitle
