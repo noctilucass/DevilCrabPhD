@@ -1,6 +1,6 @@
 - title: useData
   subtitle: Simplifying miniDOT Logger Data Extraction Workflows
-  image: images/rstudio_logo1.png
+  image: images/rstudio_logo_min.png
   link: https://github.com/noctilucass/useData
   description: useData is a R package designed to import and plot datasets from miniDOT loggers. Directly import one or plot multiple datasets from the logger without the need of removing the first lines or formatting. 
   repo: noctilucass/useData
