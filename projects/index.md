@@ -2,13 +2,13 @@
 title: Projects
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: Software, website and resources.
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
 
-{% include tags.html tags="software, website" %}
+{% include tags.html tags="software, website, resources" %}
 
 {% include search-info.html %}
 
