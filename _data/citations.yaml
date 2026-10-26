@@ -1,5 +1,36 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1088/1748-9326/ae666f
+  title: 'Non-additive responses of marine invertebrates to global change multi-driver
+    experiments: an extensive meta-analysis'
+  authors:
+  - Simone Baldanzi
+  - Marco Fusi
+  - Lucas Bravo
+  - Piero Calosi
+  - Francisco Bozinovic
+  publisher: Environmental Research Letters
+  date: '2026-05-14'
+  link: https://doi.org/hb962s
+  orcid: 0009-0002-4071-0202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.seares.2025.102590
+  title: Generating ecologically relevant oxygen fluctuations using marine primary
+    producers under laboratory conditions
+  authors:
+  - "An\xEDbal S\xE1nchez"
+  - "Paula Celis-Pl\xE1"
+  - Marco Fusi
+  - "Lucas Bravo-Guzm\xE1n"
+  - Simone Baldanzi
+  publisher: Journal of Sea Research
+  date: '2025-06-01'
+  link: https://doi.org/g9275k
+  orcid: 0009-0002-4071-0202
+  plugin: sources.py
+  file: sources.yaml
+  image: images/fig10.1016j.seares.2025.102590.jpg
 - id: doi:10.1111/aec.70066
   title: "The Effects of Temperature on the Swimming Performance, Starvation\u2010\
     Survival and Morphometrics of Zoea 1 Larvae of the Kelp Crab (<i>Taliepus dentatus</i>)\
@@ -13,22 +44,8 @@
   publisher: Austral Ecology
   date: '2025-05-01'
   link: https://doi.org/g9275j
+  orcid: 0009-0002-4071-0202
+  plugin: sources.py
+  file: sources.yaml
   type: paper
   image: images/fig 10.1111aec.70066.jpeg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.seares.2025.102590
-  title: Generating ecologically relevant oxygen fluctuations using marine primary
-    producers under laboratory conditions
-  authors:
-  - "An\xEDbal S\xE1nchez"
-  - "Paula Celis-Pl\xE1"
-  - Marco Fusi
-  - "Lucas Bravo-Guzm\xE1n"
-  - Simone Baldanzi
-  publisher: Journal of Sea Research
-  date: '2025-06-01'
-  link: https://doi.org/g9275k
-  image: images/fig10.1016j.seares.2025.102590.jpg
-  plugin: sources.py
-  file: sources.yaml
